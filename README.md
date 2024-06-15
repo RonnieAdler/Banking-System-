@@ -1,2 +1,2 @@
 # Banking-System-
-I made it in school integrating SQL with Python. It's the most basic project. But showcases the usage of SQL.
+To be run in terminal right now, but will integrated with Tkinter GUI.
